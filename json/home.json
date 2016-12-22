@@ -1,0 +1,713 @@
+{
+    "referer": "",
+    "user": {
+        "wap_token": "WNuuuGcbnp8My8eRN8QP",
+        "cart_count": 0,
+        "auth_type": 0,
+        "user_id": 3964605,
+        "public_id": "121ANONYM-67193f380894e2c80c36ffec624fa647",
+        "from_uid": "0",
+        "from_utag": "",
+        "unique_token": null,
+        "user_open_date": "2016-12-22 10:30:15"
+    },
+    "config": {
+        "api_url": "http://api.121dian.cn/",
+        "dot_url": "http://dot.121dian.com",
+        "ico": {
+            "zhuan": "http://upyun.front.121dian.com/assets/img/mine/zhuan.png",
+            "fan": "http://upyun.front.121dian.com/assets/img/mine/fan.png"
+        }
+    },
+    "params": {
+        "renderData": {
+            "data": {
+                "block": [
+                    {
+                        "type": "card-cate",
+                        "scale": 5,
+                        "items": [
+                            {
+                                "id": 1,
+                                "name": "推荐"
+                            },
+                            {
+                                "id": 2,
+                                "name": "食品"
+                            },
+                            {
+                                "id": 4,
+                                "name": "家居"
+                            },
+                            {
+                                "id": 6,
+                                "name": "个护化妆"
+                            },
+                            {
+                                "id": 3,
+                                "name": "穿戴"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "card-flat",
+                        "scale": 1,
+                        "items": [
+                            {
+                                "id": 782,
+                                "type": 8,
+                                "title": "首页图标12345",
+                                "title_h5": "首页图标12345",
+                                "url": "",
+                                "content": null,
+                                "corner_ico": "",
+                                "corner": [],
+                                "config_count": 2,
+                                "config": {
+                                    "items": [
+                                        {
+                                            "image": "http://image.121dian.com/site/121/1cd193b10b17ee375259233c554eec00.png",
+                                            "url": "http://m.121dian.com/new_activity/460?trace_data=%7B%22card_id%22%3A782%2C%22position%22%3A%226.6.1%22%7D",
+                                            "position": "6.6.1",
+                                            "natives": "h5",
+                                            "proportion": "1",
+                                            "title": "全球购",
+                                            "intro": "",
+                                            "width": "294",
+                                            "height": "284"
+                                        },
+                                        {
+                                            "image": "http://image.121dian.com/site/121/95934ba4232310f327ae833f2f537323.png",
+                                            "url": "http://m.121dian.com/new_activity/366?trace_data=%7B%22card_id%22%3A782%2C%22position%22%3A%226.6.2%22%7D",
+                                            "position": "6.6.2",
+                                            "natives": "h5",
+                                            "proportion": "1",
+                                            "title": "新品",
+                                            "intro": "",
+                                            "width": "294",
+                                            "height": "284"
+                                        },
+                                        {
+                                            "image": "http://image.121dian.com/site/121/f52de27cb3e12853be2588e3fdaae171.png",
+                                            "url": "http://m.121dian.com/activity/365?trace_data=%7B%22card_id%22%3A782%2C%22position%22%3A%226.6.3%22%7D",
+                                            "position": "6.6.3",
+                                            "natives": "h5",
+                                            "proportion": "1",
+                                            "title": "低于9.9",
+                                            "intro": "",
+                                            "width": "294",
+                                            "height": "284"
+                                        },
+                                        {
+                                            "image": "http://image.121dian.com/site/121/0ab347b773977c18a9a35d3a2758b6b1.png",
+                                            "url": "http://m.121dian.com/new_activity/447?trace_data=%7B%22card_id%22%3A782%2C%22position%22%3A%226.6.4%22%7D",
+                                            "position": "6.6.4",
+                                            "natives": "h5",
+                                            "proportion": "1",
+                                            "title": "乡味中国",
+                                            "intro": "",
+                                            "width": "294",
+                                            "height": "284"
+                                        },
+                                        {
+                                            "image": "http://image.121dian.com/site/121/19dce14570ee72c82d969bc1697bb10d.png",
+                                            "url": "http://m.121dian.com/login?trace_data=%7B%22position%22%3A%226.54.6%22%7D&trace_data=%7B%22card_id%22%3A782%2C%22position%22%3A%226.6.5%22%7D",
+                                            "position": "6.6.5",
+                                            "natives": "h5",
+                                            "proportion": "1",
+                                            "title": "一元购",
+                                            "intro": "",
+                                            "width": "294",
+                                            "height": "284"
+                                        }
+                                    ],
+                                    "items_count": 5
+                                },
+                                "trace": {
+                                    "data": {
+                                        "card_id": 782,
+                                        "position": "6.2.1"
+                                    },
+                                    "data_str": "{\"card_id\":782,\"position\":\"6.2.1\"}"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "card-flat",
+                        "scale": 1,
+                        "items": [
+                            {
+                                "id": 753,
+                                "type": 8,
+                                "title": "首页图标67890",
+                                "title_h5": "首页图标67890",
+                                "url": "",
+                                "content": null,
+                                "corner_ico": "",
+                                "corner": [],
+                                "config_count": 2,
+                                "config": {
+                                    "items": [
+                                        {
+                                            "image": "http://image.121dian.com/site/121/1ce3b2846a1f53c232c01511f1804f7e.png",
+                                            "url": "http://m.121dian.com/groupbuy?trace_data=%7B%22card_id%22%3A753%2C%22position%22%3A%226.6.6%22%7D",
+                                            "position": "6.6.6",
+                                            "natives": "h5",
+                                            "proportion": "1",
+                                            "title": "拼团",
+                                            "intro": "",
+                                            "width": "294",
+                                            "height": "284"
+                                        },
+                                        {
+                                            "image": "http://image.121dian.com/site/121/515599f2ab018b5c506ab6a5634b24f9.png",
+                                            "url": "http://m.121dian.com/jd/?trace_data=%7B%22card_id%22%3A753%2C%22position%22%3A%226.6.7%22%7D",
+                                            "position": "6.6.7",
+                                            "natives": "h5",
+                                            "proportion": "1",
+                                            "title": "京东直送",
+                                            "intro": "",
+                                            "width": "294",
+                                            "height": "284"
+                                        },
+                                        {
+                                            "image": "http://image.121dian.com/site/121/5baa8e8a0cd6cdec4fc7fd534b615f43.png",
+                                            "url": "http://m.121dian.com/new_activity/403?trace_data=%7B%22card_id%22%3A753%2C%22position%22%3A%226.6.8%22%7D",
+                                            "position": "6.6.8",
+                                            "natives": "h5",
+                                            "proportion": "1",
+                                            "title": "0元购",
+                                            "intro": "",
+                                            "width": "294",
+                                            "height": "284"
+                                        },
+                                        {
+                                            "image": "http://image.121dian.com/site/121/605db34f6b81865f944ee64573af32f7.png",
+                                            "url": "http://m.121dian.com/cpa?trace_data=%7B%22card_id%22%3A753%2C%22position%22%3A%226.6.9%22%7D",
+                                            "position": "6.6.9",
+                                            "natives": "h5",
+                                            "proportion": "1",
+                                            "title": "点击赚",
+                                            "intro": "",
+                                            "width": "294",
+                                            "height": "284"
+                                        },
+                                        {
+                                            "image": "http://image.121dian.com/site/121/33b989cc42395b47608ae3517e835dff.png",
+                                            "url": "http://m.121dian.com/new_activity/665/?trace_data=%7B%22card_id%22%3A753%2C%22position%22%3A%226.6.10%22%7D",
+                                            "position": "6.6.10",
+                                            "natives": "h5",
+                                            "proportion": "1",
+                                            "title": "主播爆款",
+                                            "intro": "",
+                                            "width": "294",
+                                            "height": "284"
+                                        }
+                                    ],
+                                    "items_count": 5
+                                },
+                                "trace": {
+                                    "data": {
+                                        "card_id": 753,
+                                        "position": "6.2.2"
+                                    },
+                                    "data_str": "{\"card_id\":753,\"position\":\"6.2.2\"}"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "education",
+                        "scale": 20,
+                        "items": [
+                            {
+                                "image": "http://wx.qlogo.cn/mmopen/Dic11EXad5e9SibJXrLFQOo4umIv8CIWhsDZQXC120ehhsj7QHh5JywWqTNBgWsTEXiazR2NMsah1GR9kyCDaQzd7KeLraLuuAp/0",
+                                "title": "袁**　享4.72元购物返利",
+                                "url": "http://m.121dian.com/goods/63460/?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": 返利宝典",
+                                "button_url": "http://m.121dian.com/help/unicoin_desc",
+                                "type": "home_page_my_rebate",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://image.121dian.com/site/0/2d8f13a0b4b06c457cfed62bbb4d7bb9.png@!w20",
+                                "title": "呢**　邀请了新伙伴 从此返利拿不完",
+                                "url": "http://m.121dian.com/help/newbie_guide?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "你也可以",
+                                "button_url": "http://m.121dian.com/help/newbie_guide",
+                                "type": "home_page_invitation",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://image.121dian.com/site/0/2d8f13a0b4b06c457cfed62bbb4d7bb9.png@!w20",
+                                "title": "<font size=\"4.5\">呢**　邀请了新伙伴 从此返利拿不完</font>",
+                                "url": "http://m.121dian.com/help/newbie_guide?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">你也可以</font>",
+                                "button_url": "http://m.121dian.com/help/newbie_guide",
+                                "type": "home_page_invitation",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLCzYlvsLUgvEX5cIhQqD7UGMM1yBp1s2FdwehcPH5EqIJHkdsdA2aicD5ic3Vicmy6qAATzn0MfhRZoA/0",
+                                "title": "<font size=\"4.5\">烟**冷　享3.00元购物返利</font><font size=\"4.5\" color=\"#ef082e\">金万年（Genvana）G-1117 透明笔杆中性笔 0.7mm 子弹头黑色 12支装</font>",
+                                "url": "http://m.121dian.com/goods_jd/61769/?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">返利宝典</font>",
+                                "button_url": "http://m.121dian.com/help/unicoin_desc",
+                                "type": "home_page_my_rebate",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://image.121dian.com/site/0/7d77a6360d06337ac4b7d3066a465eaf.png@!w20",
+                                "title": "<font size=\"4.5\">真**琪　因小伙伴购物 享0.32元平台奖励</font>",
+                                "url": "http://m.121dian.com/help/newbie_guide?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">你也可以</font>",
+                                "button_url": "http://m.121dian.com/help/newbie_guide",
+                                "type": "home_page_buy_rebate",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://wx.qlogo.cn/mmopen/CTcob2yg61csz1v8bBx5ZnCeR0MCO6ugricX3Fld5qteAcicYD4ic3oAsAyiaHAzXib55h5gn8R877oHpsGfXUicPmuicqibJENwiafVk/0",
+                                "title": "<font size=\"4.5\">张**累计收益已达到 570.11元！新增收益 8.00 元！</font>",
+                                "url": "http://m.121dian.com/mine/share_man_guide?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">不服来战</font>",
+                                "button_url": "http://m.121dian.com/mine/share_man_guide",
+                                "type": "home_page_user_account",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://image.121dian.com/site/0/7695fe0b3fd56c45fc069a9e7f560c2a.png@!w20",
+                                "title": "<font size=\"4.5\">伯**舒　邀请了新伙伴 从此返利拿不完</font>",
+                                "url": "http://m.121dian.com/help/newbie_guide?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">你也可以</font>",
+                                "button_url": "http://m.121dian.com/help/newbie_guide",
+                                "type": "home_page_invitation",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLAX7flAV863bbV9NEuyibAAibEe2qekdicMhzvyRvqYye8hRvuJictdmywfiaIXaRX7Jv0AwaLcQlfO2NzBBk73pw23N6wIadHLGiaRk/0",
+                                "title": "<font size=\"4.5\">杨**累计收益已达到 573.16元！新增收益 0.45 元！</font>",
+                                "url": "http://m.121dian.com/mine/share_man_guide?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">不服来战</font>",
+                                "button_url": "http://m.121dian.com/mine/share_man_guide",
+                                "type": "home_page_user_account",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://wx.qlogo.cn/mmopen/22p9AiaqCwVCVspzo4d6I536LibnDibTbcx2vNbItMhba9DmUcewwsqy2jJJT98UAKbPq6ficbcfLPjMuJQDGLhJNwFYemuWhRpV/0",
+                                "title": "<font size=\"4.5\">大**娃　享0.79元购物返利</font><font size=\"4.5\" color=\"#ef082e\">金士顿（Kingston) 64GB 90MB/s SD Class10 UHS-I高速存储卡 土豪金</font>",
+                                "url": "http://m.121dian.com/goods_jd/64132/?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">返利宝典</font>",
+                                "button_url": "http://m.121dian.com/help/unicoin_desc",
+                                "type": "home_page_my_rebate",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://image.121dian.com/site/0/b858bf522de27ab9ecf828f1a0fc11ce.png@!w20",
+                                "title": "<font size=\"4.5\">洪**霞累计收益已达到 567.25元！新增收益 0.45 元！</font>",
+                                "url": "http://m.121dian.com/mine/share_man_guide?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">不服来战</font>",
+                                "button_url": "http://m.121dian.com/mine/share_man_guide",
+                                "type": "home_page_user_account",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://image.121dian.com/site/0/7d77a6360d06337ac4b7d3066a465eaf.png@!w20",
+                                "title": "<font size=\"4.5\">真**琪　因小伙伴购物 享1.60元平台奖励</font>",
+                                "url": "http://m.121dian.com/help/newbie_guide?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">你也可以</font>",
+                                "button_url": "http://m.121dian.com/help/newbie_guide",
+                                "type": "home_page_buy_rebate",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://wx.qlogo.cn/mmopen/Q3auHgzwzM7SwnPm4yWEdR5rCeFXlqrNDBeics5ClGPzFALWibNyeoVHhjHz8rLib01iawYBjwzcnOCsFIGKRx6HnQ/0",
+                                "title": "<font size=\"4.5\">许**菜　享3.92元购物返利</font><font size=\"4.5\" color=\"#ef082e\">竹之锦（The Bamboo Kam） 天然竹纺竹纤维枕巾6835一对 2条装 蓝色</font>",
+                                "url": "http://m.121dian.com/goods_jd/63804/?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">返利宝典</font>",
+                                "button_url": "http://m.121dian.com/help/unicoin_desc",
+                                "type": "home_page_my_rebate",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://wx.qlogo.cn/mmopen/PiajxSqBRaEKnicTz2HibeAuAYlJebQhTfmCDQ5raoadSibQiaPZjqhvicoAwfxj3j38ZAicQsWtMLaS6fUNTqLAYWPWQ/0",
+                                "title": "<font size=\"4.5\">微**手累计收益已达到 571.78元！新增收益 5.00 元！</font>",
+                                "url": "http://m.121dian.com/mine/share_man_guide?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">不服来战</font>",
+                                "button_url": "http://m.121dian.com/mine/share_man_guide",
+                                "type": "home_page_user_account",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://wx.qlogo.cn/mmopen/dTdhfEia8huKGR9IMbbhLe1CEgfCboGPibSPNHw3g35qhMfGcr1OiauRYg0xLS6y4ic7pNmWNwGiaK448xJOGz8UYcPfibrX19gibtA/0",
+                                "title": "<font size=\"4.5\">小**奥　享3.04元购物返利</font><font size=\"4.5\" color=\"#ef082e\">美丽雅 轻松刷 (赠百洁布刷头x1个) 锅刷碗盘刷餐具刷 HC15975</font>",
+                                "url": "http://m.121dian.com/goods_jd/63554/?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">返利宝典</font>",
+                                "button_url": "http://m.121dian.com/help/unicoin_desc",
+                                "type": "home_page_my_rebate",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://image.121dian.com/site/0/7695fe0b3fd56c45fc069a9e7f560c2a.png@!w20",
+                                "title": "<font size=\"4.5\">伯**舒　邀请了新伙伴 从此返利拿不完</font>",
+                                "url": "http://m.121dian.com/help/newbie_guide?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">你也可以</font>",
+                                "button_url": "http://m.121dian.com/help/newbie_guide",
+                                "type": "home_page_invitation",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://image.121dian.com/site/0/0baf44dff2448f0bf3ce97f88eedcd3a.png@!w20",
+                                "title": "<font size=\"4.5\">雨**累计收益已达到 566.37元！新增收益 0.45 元！</font>",
+                                "url": "http://m.121dian.com/mine/share_man_guide?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">不服来战</font>",
+                                "button_url": "http://m.121dian.com/mine/share_man_guide",
+                                "type": "home_page_user_account",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://image.121dian.com/site/0/7695fe0b3fd56c45fc069a9e7f560c2a.png@!w20",
+                                "title": "<font size=\"4.5\">伯**舒　邀请了新伙伴 从此返利拿不完</font>",
+                                "url": "http://m.121dian.com/help/newbie_guide?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">你也可以</font>",
+                                "button_url": "http://m.121dian.com/help/newbie_guide",
+                                "type": "home_page_invitation",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://wx.qlogo.cn/mmopen/ePuIqgSicgFILndvSdnqE3JYpexWyVh5CdSrccbiciau8dZIR1wXX6vHsuIYqYeh7QWH2fm5Vk5yF5Dv28ibvwfeibTh02ALlFDsC/0",
+                                "title": "<font size=\"4.5\">长**里　因小伙伴购物 享4.90元平台奖励</font>",
+                                "url": "http://m.121dian.com/help/newbie_guide?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">你也可以</font>",
+                                "button_url": "http://m.121dian.com/help/newbie_guide",
+                                "type": "home_page_buy_rebate",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://wx.qlogo.cn/mmopen/W00gR3ac1W47UKpLcEib1Iicl7oyMLR64ict28Qgko9K38u0KUWIS7S9FziaBhu33UWzApLyffGsicuFFgB01Z8Zd9Ep5gPzLQ9o8/0",
+                                "title": "<font size=\"4.5\">米** 　因小伙伴购物 享3.75元平台奖励</font>",
+                                "url": "http://m.121dian.com/help/newbie_guide?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">你也可以</font>",
+                                "button_url": "http://m.121dian.com/help/newbie_guide",
+                                "type": "home_page_buy_rebate",
+                                "coordinate": "6.100"
+                            },
+                            {
+                                "image": "http://image.121dian.com/site/0/7d77a6360d06337ac4b7d3066a465eaf.png@!w20",
+                                "title": "<font size=\"4.5\">真**琪　因小伙伴购物 享0.53元平台奖励</font>",
+                                "url": "http://m.121dian.com/help/newbie_guide?trace_data=%7B%22position%22%3A%226.100%22%7D",
+                                "button_text": "<font color=\"#ef082e\" size=\"4.5\">你也可以</font>",
+                                "button_url": "http://m.121dian.com/help/newbie_guide",
+                                "type": "home_page_buy_rebate",
+                                "coordinate": "6.100"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "card-flat",
+                        "scale": 1,
+                        "items": [
+                            {
+                                "id": 3503,
+                                "type": 3,
+                                "title": "舒绿园 红糖姜茶姜汁老姜汤姜母茶 速溶 180g",
+                                "title_h5": "舒绿园 红糖姜茶姜汁老姜汤姜母茶 速溶 180g",
+                                "url": "http://m.121dian.com/goods/51251/?trace_data=%7B%22card_id%22%3A3503%2C%22goods_id%22%3A%2251251%22%2C%22position%22%3A%226.2.4%22%7D",
+                                "content": "",
+                                "image": "http://image.121dian.com/site/121/9564a0884ecb4bc6a10a75a3a5098f2f.jpg@!w750",
+                                "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                                "corner": {
+                                    "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                                    "text": "热 卖"
+                                },
+                                "config_count": 12,
+                                "config": {
+                                    "width": 1160,
+                                    "height": 662,
+                                    "share_count": "984",
+                                    "goods_id": "51251",
+                                    "is_lock": "",
+                                    "lock_started_at": "",
+                                    "lock_expired_at": "",
+                                    "timing": "剩余：68天1小时",
+                                    "price": "9.90",
+                                    "market_price": "￥59.00",
+                                    "rebate": "￥0.99",
+                                    "rebate_second": "0.99",
+                                    "rebate_desc": "自己购买<font color=\"#ef082e\">赚</font>取返利￥0.99元<br />分享给好友购买<font color=\"#ef082e\">赚</font>取收益0.99元",
+                                    "rebate_url": "http://m.121dian.com/mine/share_man"
+                                },
+                                "trace": {
+                                    "data": {
+                                        "card_id": 3503,
+                                        "goods_id": "51251",
+                                        "position": "6.2.4"
+                                    },
+                                    "data_str": "{\"card_id\":3503,\"goods_id\":\"51251\",\"position\":\"6.2.4\"}"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "card-flat",
+                        "scale": 1,
+                        "items": [
+                            {
+                                "id": 3500,
+                                "type": 3,
+                                "title": "冬凌草药牙膏150g 口腔溃疡 中草药牙膏 去口臭牙龈出血清热下火（买就送30g旅行装）",
+                                "title_h5": "冬凌草药牙膏150g 口腔溃疡 中草药牙膏 去口臭牙龈出血清热下火（买就送30g旅行装）",
+                                "url": "http://m.121dian.com/goods/41407/?trace_data=%7B%22card_id%22%3A3500%2C%22goods_id%22%3A%2241407%22%2C%22position%22%3A%226.2.5%22%7D",
+                                "content": "",
+                                "image": "http://image.121dian.com/site/121/ff158dcacedf65efdc5e1a71f57a48ec.png@!w750",
+                                "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                                "corner": {
+                                    "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                                    "text": "热 卖"
+                                },
+                                "config_count": 12,
+                                "config": {
+                                    "width": 1160,
+                                    "height": 662,
+                                    "share_count": "782",
+                                    "goods_id": "41407",
+                                    "is_lock": "0",
+                                    "lock_started_at": "",
+                                    "lock_expired_at": "",
+                                    "timing": "剩余：68天5小时",
+                                    "price": "38.00",
+                                    "market_price": "￥48.00",
+                                    "rebate": "￥1.90"
+                                },
+                                "trace": {
+                                    "data": {
+                                        "card_id": 3500,
+                                        "goods_id": "41407",
+                                        "position": "6.2.5"
+                                    },
+                                    "data_str": "{\"card_id\":3500,\"goods_id\":\"41407\",\"position\":\"6.2.5\"}"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "card-flat",
+                        "scale": 1,
+                        "items": [
+                            {
+                                "id": 3499,
+                                "type": 3,
+                                "title": "心溢 葛根木瓜魔芋粉方便食品冲调类五谷营养代餐粉520g",
+                                "title_h5": "心溢 葛根木瓜魔芋粉方便食品冲调类五谷营养代餐粉520g",
+                                "url": "http://m.121dian.com/goods/61171/?trace_data=%7B%22card_id%22%3A3499%2C%22goods_id%22%3A%2261171%22%2C%22position%22%3A%226.2.6%22%7D",
+                                "content": "",
+                                "image": "http://image.121dian.com/site/121/e3138db1a361b38cfecd33b2a1e3cbc9.png@!w750",
+                                "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                                "corner": {
+                                    "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                                    "text": "热 卖"
+                                },
+                                "config_count": 12,
+                                "config": {
+                                    "width": 1160,
+                                    "height": 662,
+                                    "share_count": "64",
+                                    "goods_id": "61171",
+                                    "is_lock": "0",
+                                    "lock_started_at": "",
+                                    "lock_expired_at": "",
+                                    "timing": "剩余：68天3小时",
+                                    "price": "79.90",
+                                    "market_price": "￥168.00",
+                                    "rebate": "￥7.99"
+                                },
+                                "trace": {
+                                    "data": {
+                                        "card_id": 3499,
+                                        "goods_id": "61171",
+                                        "position": "6.2.6"
+                                    },
+                                    "data_str": "{\"card_id\":3499,\"goods_id\":\"61171\",\"position\":\"6.2.6\"}"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "card-flat",
+                        "scale": 1,
+                        "items": [
+                            {
+                                "id": 3497,
+                                "type": 3,
+                                "title": "(买一送一)古奇天伦男鞋新款男士商务正装皮鞋时尚皮鞋",
+                                "title_h5": "(买一送一)古奇天伦男鞋新款男士商务正装皮鞋时尚皮鞋",
+                                "url": "http://m.121dian.com/goods/64021/?trace_data=%7B%22card_id%22%3A3497%2C%22goods_id%22%3A%2264021%22%2C%22position%22%3A%226.2.7%22%7D",
+                                "content": "",
+                                "image": "http://image.121dian.com/site/121/04055cd1eed8f6baa3f882090c34d5de.jpg@!w750",
+                                "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                                "corner": {
+                                    "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                                    "text": "热 卖"
+                                },
+                                "config_count": 12,
+                                "config": {
+                                    "width": 1160,
+                                    "height": 662,
+                                    "share_count": "24",
+                                    "goods_id": "64021",
+                                    "is_lock": "0",
+                                    "lock_started_at": "",
+                                    "lock_expired_at": "",
+                                    "timing": "剩余：67天23小时",
+                                    "price": "198.00",
+                                    "market_price": "￥512.00",
+                                    "rebate": "￥4.95"
+                                },
+                                "trace": {
+                                    "data": {
+                                        "card_id": 3497,
+                                        "goods_id": "64021",
+                                        "position": "6.2.7"
+                                    },
+                                    "data_str": "{\"card_id\":3497,\"goods_id\":\"64021\",\"position\":\"6.2.7\"}"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "card-flat",
+                        "scale": 1,
+                        "items": [
+                            {
+                                "id": 3492,
+                                "type": 3,
+                                "title": "五羊婴儿宝宝屁屁手口专用卫生柔湿巾新生儿湿纸巾80抽x5带盖",
+                                "title_h5": "五羊婴儿宝宝屁屁手口专用卫生柔湿巾新生儿湿纸巾80抽x5带盖",
+                                "url": "http://m.121dian.com/goods/57753/?trace_data=%7B%22card_id%22%3A3492%2C%22goods_id%22%3A%2257753%22%2C%22position%22%3A%226.2.8%22%7D",
+                                "content": "",
+                                "image": "http://image.121dian.com/site/121/7fcd56f263eb89355770de3d3620de86.jpg@!w750",
+                                "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                                "corner": {
+                                    "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                                    "text": "热 卖"
+                                },
+                                "config_count": 12,
+                                "config": {
+                                    "width": 1160,
+                                    "height": 662,
+                                    "share_count": "525",
+                                    "goods_id": "57753",
+                                    "is_lock": "",
+                                    "lock_started_at": "",
+                                    "lock_expired_at": "",
+                                    "timing": "剩余：67天23小时",
+                                    "price": "34.90",
+                                    "market_price": "￥89.00",
+                                    "rebate": "￥0.87"
+                                },
+                                "trace": {
+                                    "data": {
+                                        "card_id": 3492,
+                                        "goods_id": "57753",
+                                        "position": "6.2.8"
+                                    },
+                                    "data_str": "{\"card_id\":3492,\"goods_id\":\"57753\",\"position\":\"6.2.8\"}"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "card-flat",
+                        "scale": 1,
+                        "items": [
+                            {
+                                "id": 3485,
+                                "type": 3,
+                                "title": "伊索正品名表 全自动机械表钢带男表 时尚防水多功能男士手表9002",
+                                "title_h5": "伊索正品名表 全自动机械表钢带男表 时尚防水多功能男士手表9002",
+                                "url": "http://m.121dian.com/goods/56235/?trace_data=%7B%22card_id%22%3A3485%2C%22goods_id%22%3A%2256235%22%2C%22position%22%3A%226.2.9%22%7D",
+                                "content": "",
+                                "image": "http://image.121dian.com/site/121/73fc7a92230db804ffb409935af3a427.jpg@!w750",
+                                "corner_ico": "",
+                                "corner": [],
+                                "config_count": 12,
+                                "config": {
+                                    "width": 1160,
+                                    "height": 662,
+                                    "share_count": "460",
+                                    "goods_id": "56235",
+                                    "is_lock": "",
+                                    "lock_started_at": "",
+                                    "lock_expired_at": "",
+                                    "timing": "剩余：68天1小时",
+                                    "price": "398.00",
+                                    "market_price": "￥1496.00",
+                                    "rebate": "￥1.99"
+                                },
+                                "trace": {
+                                    "data": {
+                                        "card_id": 3485,
+                                        "goods_id": "56235",
+                                        "position": "6.2.9"
+                                    },
+                                    "data_str": "{\"card_id\":3485,\"goods_id\":\"56235\",\"position\":\"6.2.9\"}"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "card-flat",
+                        "scale": 1,
+                        "items": [
+                            {
+                                "id": 3483,
+                                "type": 3,
+                                "title": "（买一送一）臻芝大米蚕丝补水面膜保湿祛黄白皙修护睡眠滋润亮肤男女水光面膜",
+                                "title_h5": "（买一送一）臻芝大米蚕丝补水面膜保湿祛黄白皙修护睡眠滋润亮肤男女水光面膜",
+                                "url": "http://m.121dian.com/goods/55810/?trace_data=%7B%22card_id%22%3A3483%2C%22goods_id%22%3A%2255810%22%2C%22position%22%3A%226.2.10%22%7D",
+                                "content": "",
+                                "image": "http://image.121dian.com/site/121/61a0ddb28fdcba4dfb66494c7b04fd28.jpg@!w750",
+                                "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                                "corner": {
+                                    "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                                    "text": "热 卖"
+                                },
+                                "config_count": 12,
+                                "config": {
+                                    "width": 1160,
+                                    "height": 662,
+                                    "share_count": "739",
+                                    "goods_id": "55810",
+                                    "is_lock": "0",
+                                    "lock_started_at": "",
+                                    "lock_expired_at": "",
+                                    "timing": "剩余：68天3小时",
+                                    "price": "39.90",
+                                    "market_price": "￥99.00",
+                                    "rebate": "￥5.99"
+                                },
+                                "trace": {
+                                    "data": {
+                                        "card_id": 3483,
+                                        "goods_id": "55810",
+                                        "position": "6.2.10"
+                                    },
+                                    "data_str": "{\"card_id\":3483,\"goods_id\":\"55810\",\"position\":\"6.2.10\"}"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "ret": 0,
+            "pagination": {
+                "_url": "http://api.121dian.cn/h5/card",
+                "_offset": 0,
+                "_limit": 10,
+                "_count": 25
+            }
+        }
+    },
+    "service": [],
+    "wxpay_config": null
+}

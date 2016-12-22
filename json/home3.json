@@ -1,0 +1,217 @@
+{
+    "data": {
+        "block": [
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3488,
+                        "type": 3,
+                        "title": "花瑭月色 负离子卫生巾9包混合装（日2+夜1+加长4+护垫2）",
+                        "title_h5": "花瑭月色 负离子卫生巾9包混合装（日2+夜1+加长4+护垫2）",
+                        "url": "http://m.121dian.com/goods/58818/?trace_data=%7B%22card_id%22%3A3488%2C%22goods_id%22%3A%2258818%22%2C%22position%22%3A%226.2.21%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/fe4e1c66f63adae5035b9e250635b356.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "6",
+                            "goods_id": "58818",
+                            "is_lock": "",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天2小时",
+                            "price": "99.00",
+                            "market_price": "￥259.00",
+                            "rebate": "￥7.43"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3488,
+                                "goods_id": "58818",
+                                "position": "6.2.21"
+                            },
+                            "data_str": "{\"card_id\":3488,\"goods_id\":\"58818\",\"position\":\"6.2.21\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3357,
+                        "type": 3,
+                        "title": "【买大米送杂粮】2016年正宗五常大米黑龙江稻花香米十斤装",
+                        "title_h5": "【买大米送杂粮】2016年正宗五常大米黑龙江稻花香米十斤装",
+                        "url": "http://m.121dian.com/goods/43192/?trace_data=%7B%22card_id%22%3A3357%2C%22goods_id%22%3A%2243192%22%2C%22position%22%3A%226.2.22%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/8ef8503cb7db10342a8df3aca8295e20.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "575",
+                            "goods_id": "43192",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：67天22小时",
+                            "price": "89.80",
+                            "market_price": "￥99.90",
+                            "rebate": "￥4.49"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3357,
+                                "goods_id": "43192",
+                                "position": "6.2.22"
+                            },
+                            "data_str": "{\"card_id\":3357,\"goods_id\":\"43192\",\"position\":\"6.2.22\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3477,
+                        "type": 3,
+                        "title": "西凤尊贵窖·尊福42° 买就送品牌电动车、扫地机器人",
+                        "title_h5": "西凤尊贵窖·尊福42° 买就送品牌电动车、扫地机器人",
+                        "url": "http://m.121dian.com/goods/63954/?trace_data=%7B%22card_id%22%3A3477%2C%22goods_id%22%3A%2263954%22%2C%22position%22%3A%226.2.23%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/6d1b5bc8c2f6ab1aea90977d5dc66030.png@!w750",
+                        "corner_ico": "",
+                        "corner": {},
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "5",
+                            "goods_id": "63954",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天",
+                            "price": "392.00",
+                            "market_price": "￥1152.00",
+                            "rebate": "￥9.80"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3477,
+                                "goods_id": "63954",
+                                "position": "6.2.23"
+                            },
+                            "data_str": "{\"card_id\":3477,\"goods_id\":\"63954\",\"position\":\"6.2.23\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3473,
+                        "type": 3,
+                        "title": "顾公蜂蜜时尚潮蜜农家自产天然蜂蜜275g洋槐蜜小包装野生蜂蜜",
+                        "title_h5": "顾公蜂蜜时尚潮蜜农家自产天然蜂蜜275g洋槐蜜小包装野生蜂蜜",
+                        "url": "http://m.121dian.com/goods/64044/?trace_data=%7B%22card_id%22%3A3473%2C%22goods_id%22%3A%2264044%22%2C%22position%22%3A%226.2.24%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/a9847e2a1687157e9f3b36b6d818d77d.jpg@!w750",
+                        "corner_ico": "",
+                        "corner": {},
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "6",
+                            "goods_id": "64044",
+                            "is_lock": "",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天5小时",
+                            "price": "39.00",
+                            "market_price": "￥118.00",
+                            "rebate": "￥1.95"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3473,
+                                "goods_id": "64044",
+                                "position": "6.2.24"
+                            },
+                            "data_str": "{\"card_id\":3473,\"goods_id\":\"64044\",\"position\":\"6.2.24\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 2804,
+                        "type": 3,
+                        "title": "【法国原装进口】Candia肯迪雅全脂纯牛奶200ML*12盒*2箱",
+                        "title_h5": "【法国原装进口】Candia肯迪雅全脂纯牛奶200ML*12盒*2箱",
+                        "url": "http://m.121dian.com/goods/50091/?trace_data=%7B%22card_id%22%3A2804%2C%22goods_id%22%3A%2250091%22%2C%22position%22%3A%226.2.25%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/5192ee2605805c47a0c48a9c21d0d93e.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/a36b2559516f4dfafb9d9de23379dbc1.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "新 品"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "1138",
+                            "goods_id": "50091",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：5天22小时",
+                            "price": "180.00",
+                            "market_price": "￥288.00",
+                            "rebate": "￥18.00"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 2804,
+                                "goods_id": "50091",
+                                "position": "6.2.25"
+                            },
+                            "data_str": "{\"card_id\":2804,\"goods_id\":\"50091\",\"position\":\"6.2.25\"}"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "ret": 0,
+    "pagination": {
+        "_url": "http://api.121dian.cn/h5/card",
+        "_offset": 20,
+        "_limit": 10,
+        "_count": 25
+    }
+}

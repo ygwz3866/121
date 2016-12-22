@@ -1,0 +1,421 @@
+{
+    "data": {
+        "block": [
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3480,
+                        "type": 3,
+                        "title": "西凤尊贵窖·贵禄52° 买就送高级羽绒被",
+                        "title_h5": "西凤尊贵窖·贵禄52° 买就送高级羽绒被",
+                        "url": "http://m.121dian.com/goods/63953/?trace_data=%7B%22card_id%22%3A3480%2C%22goods_id%22%3A%2263953%22%2C%22position%22%3A%226.2.11%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/3a45184d089c550d3a7f3c6e0daad6ef.png@!w750",
+                        "corner_ico": "",
+                        "corner": {},
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "29",
+                            "goods_id": "63953",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天1小时",
+                            "price": "768.00",
+                            "market_price": "￥2868.00",
+                            "rebate": "￥19.20"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3480,
+                                "goods_id": "63953",
+                                "position": "6.2.11"
+                            },
+                            "data_str": "{\"card_id\":3480,\"goods_id\":\"63953\",\"position\":\"6.2.11\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3476,
+                        "type": 3,
+                        "title": "【台湾进口】谷的家mini小黄人不锈钢保温杯300ml 台湾进口PLA材质 可拆卸内胆下单加送内胆一个",
+                        "title_h5": "【台湾进口】谷的家mini小黄人不锈钢保温杯300ml 台湾进口PLA材质 可拆卸内胆下单加送内胆一个",
+                        "url": "http://m.121dian.com/goods/53125/?trace_data=%7B%22card_id%22%3A3476%2C%22goods_id%22%3A%2253125%22%2C%22position%22%3A%226.2.12%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/3a7bde2669359cad693e6ac57e6b9028.png@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "29",
+                            "goods_id": "53125",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天",
+                            "price": "79.00",
+                            "market_price": "￥268.00",
+                            "rebate": "￥3.95"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3476,
+                                "goods_id": "53125",
+                                "position": "6.2.12"
+                            },
+                            "data_str": "{\"card_id\":3476,\"goods_id\":\"53125\",\"position\":\"6.2.12\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3475,
+                        "type": 3,
+                        "title": "【台湾进口】谷的家家用玉米不发霉筷子5双多色可选混色包装 买两盒送汤勺",
+                        "title_h5": "【台湾进口】谷的家家用玉米不发霉筷子5双多色可选混色包装 买两盒送汤勺",
+                        "url": "http://m.121dian.com/goods/53135/?trace_data=%7B%22card_id%22%3A3475%2C%22goods_id%22%3A%2253135%22%2C%22position%22%3A%226.2.13%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/e450f5dfde32ed15771bc34dbeeeb311.png@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/a36b2559516f4dfafb9d9de23379dbc1.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "新 品"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "608",
+                            "goods_id": "53135",
+                            "is_lock": "",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天",
+                            "price": "49.90",
+                            "market_price": "￥79.00",
+                            "rebate": "￥2.50"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3475,
+                                "goods_id": "53135",
+                                "position": "6.2.13"
+                            },
+                            "data_str": "{\"card_id\":3475,\"goods_id\":\"53135\",\"position\":\"6.2.13\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3474,
+                        "type": 3,
+                        "title": "【谷的福】临安新货山核桃仁168g*2罐",
+                        "title_h5": "【谷的福】临安新货山核桃仁168g*2罐",
+                        "url": "http://m.121dian.com/goods/58705/?trace_data=%7B%22card_id%22%3A3474%2C%22goods_id%22%3A%2258705%22%2C%22position%22%3A%226.2.14%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/1505d6ae58456f166258590b1d6380ec.jpg@!w750",
+                        "corner_ico": "",
+                        "corner": {},
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "932",
+                            "goods_id": "58705",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天5小时",
+                            "price": "108.80",
+                            "market_price": "￥218.00",
+                            "rebate": "￥1.09"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3474,
+                                "goods_id": "58705",
+                                "position": "6.2.14"
+                            },
+                            "data_str": "{\"card_id\":3474,\"goods_id\":\"58705\",\"position\":\"6.2.14\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3471,
+                        "type": 3,
+                        "title": "【新品潮蜜】顾公蜂蜜便携装袋装天然240g百花蜂蜜小包装野生蜂蜜",
+                        "title_h5": "【新品潮蜜】顾公蜂蜜便携装袋装天然240g百花蜂蜜小包装野生蜂蜜",
+                        "url": "http://m.121dian.com/goods/64039/?trace_data=%7B%22card_id%22%3A3471%2C%22goods_id%22%3A%2264039%22%2C%22position%22%3A%226.2.15%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/13bcc9d68537005fc836ff3d4b0af5f3.jpg@!w750",
+                        "corner_ico": "",
+                        "corner": {},
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "14",
+                            "goods_id": "64039",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：62天3小时",
+                            "price": "39.00",
+                            "market_price": "￥98.00",
+                            "rebate": "￥1.95"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3471,
+                                "goods_id": "64039",
+                                "position": "6.2.15"
+                            },
+                            "data_str": "{\"card_id\":3471,\"goods_id\":\"64039\",\"position\":\"6.2.15\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3463,
+                        "type": 3,
+                        "title": "霍山黄芽书卷礼盒装200g/组",
+                        "title_h5": "霍山黄芽书卷礼盒装200g/组",
+                        "url": "http://m.121dian.com/goods/53893/?trace_data=%7B%22card_id%22%3A3463%2C%22goods_id%22%3A%2253893%22%2C%22position%22%3A%226.2.16%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/41fecbcfb8c893f679b7a57f53256b38.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 750,
+                            "height": 350,
+                            "share_count": "37",
+                            "goods_id": "53893",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天",
+                            "price": "299.00",
+                            "market_price": "￥369.00",
+                            "rebate": "￥22.43"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3463,
+                                "goods_id": "53893",
+                                "position": "6.2.16"
+                            },
+                            "data_str": "{\"card_id\":3463,\"goods_id\":\"53893\",\"position\":\"6.2.16\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3450,
+                        "type": 3,
+                        "title": "SUM37呼吸37度 惊喜水分水乳霜三件套 170ml+120ml+20ml",
+                        "title_h5": "SUM37呼吸37度 惊喜水分水乳霜三件套 170ml+120ml+20ml",
+                        "url": "http://m.121dian.com/goods/58376/?trace_data=%7B%22card_id%22%3A3450%2C%22goods_id%22%3A%2258376%22%2C%22position%22%3A%226.2.17%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/c3c4e6abe92be8161a4fd989b0176f3b.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 750,
+                            "height": 350,
+                            "share_count": "854",
+                            "goods_id": "58376",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：5天",
+                            "price": "728.00",
+                            "market_price": "￥799.00",
+                            "rebate": "￥36.40"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3450,
+                                "goods_id": "58376",
+                                "position": "6.2.17"
+                            },
+                            "data_str": "{\"card_id\":3450,\"goods_id\":\"58376\",\"position\":\"6.2.17\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3449,
+                        "type": 3,
+                        "title": "丝塔芙 温和洁面乳活动超低价包邮 237ml",
+                        "title_h5": "丝塔芙 温和洁面乳活动超低价包邮 237ml",
+                        "url": "http://m.121dian.com/goods/59342/?trace_data=%7B%22card_id%22%3A3449%2C%22goods_id%22%3A%2259342%22%2C%22position%22%3A%226.2.18%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/6eddd2db14c2067edf2faec8d95fb04c.jpg@!w750",
+                        "corner_ico": "",
+                        "corner": {},
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "13",
+                            "goods_id": "59342",
+                            "is_lock": "",
+                            "lock_started_at": "2016-11-14 10:35:19",
+                            "lock_expired_at": "2016-11-22 10:35:22",
+                            "timing": "剩余：67天23小时",
+                            "price": "69.00",
+                            "market_price": "￥98.00",
+                            "rebate": "￥3.45"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3449,
+                                "goods_id": "59342",
+                                "position": "6.2.18"
+                            },
+                            "data_str": "{\"card_id\":3449,\"goods_id\":\"59342\",\"position\":\"6.2.18\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3501,
+                        "type": 3,
+                        "title": "舒绿园 黄苦荞茶四川西昌凉山大麦茶全胚芽香茶花草茶荞麦茶包邮",
+                        "title_h5": "舒绿园 黄苦荞茶四川西昌凉山大麦茶全胚芽香茶花草茶荞麦茶包邮",
+                        "url": "http://m.121dian.com/goods/60944/?trace_data=%7B%22card_id%22%3A3501%2C%22goods_id%22%3A%2260944%22%2C%22position%22%3A%226.2.19%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/191ddf41eb0c8c2d7cc9e313b0cdc98c.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "5",
+                            "goods_id": "60944",
+                            "is_lock": "",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天",
+                            "price": "22.80",
+                            "market_price": "￥76.00",
+                            "rebate": "￥2.28"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3501,
+                                "goods_id": "60944",
+                                "position": "6.2.19"
+                            },
+                            "data_str": "{\"card_id\":3501,\"goods_id\":\"60944\",\"position\":\"6.2.19\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3490,
+                        "type": 3,
+                        "title": "爱贝斯暖手宝可爱毛绒电暖宝无水插电暖宝宝双插手可拆洗暖宫暖宝",
+                        "title_h5": "爱贝斯暖手宝可爱毛绒电暖宝无水插电暖宝宝双插手可拆洗暖宫暖宝",
+                        "url": "http://m.121dian.com/goods/58587/?trace_data=%7B%22card_id%22%3A3490%2C%22goods_id%22%3A%2258587%22%2C%22position%22%3A%226.2.20%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/5b134d90f06815851b245e0e58e23958.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/a36b2559516f4dfafb9d9de23379dbc1.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "新 品"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "18",
+                            "goods_id": "58587",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天6小时",
+                            "price": "75.00",
+                            "market_price": "￥178.00",
+                            "rebate": "￥3.75"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3490,
+                                "goods_id": "58587",
+                                "position": "6.2.20"
+                            },
+                            "data_str": "{\"card_id\":3490,\"goods_id\":\"58587\",\"position\":\"6.2.20\"}"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "ret": 0,
+    "pagination": {
+        "_url": "http://api.121dian.cn/h5/card",
+        "_offset": 10,
+        "_limit": 10,
+        "_count": 25
+    }
+}

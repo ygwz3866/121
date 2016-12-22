@@ -1,0 +1,427 @@
+{
+    "data": {
+        "block": [
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3496,
+                        "type": 3,
+                        "title": "五羊宝宝专用洗衣液500ml*2袋 新生婴儿童洗衣液宝宝衣物尿布清洗",
+                        "title_h5": "五羊宝宝专用洗衣液500ml*2袋 新生婴儿童洗衣液宝宝衣物尿布清洗",
+                        "url": "http://mm.121dian.com/goods/64174/?trace_data=%7B%22card_id%22%3A3496%2C%22goods_id%22%3A%2264174%22%2C%22position%22%3A%226.2.1%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/3d68749770570ad13f3010d4a3555173.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "1",
+                            "goods_id": "64174",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天7小时",
+                            "price": "15.90",
+                            "market_price": "￥29.00",
+                            "rebate": "￥0.40",
+                            "rebate_second": "0.40",
+                            "rebate_desc": "自己购买<font color=\"#ef082e\">赚</font>取返利￥0.40元<br />分享给好友购买<font color=\"#ef082e\">赚</font>取收益0.40元",
+                            "rebate_url": "http://m.121dian.com/mine/share_man"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3496,
+                                "goods_id": "64174",
+                                "position": "6.2.1"
+                            },
+                            "data_str": "{\"card_id\":3496,\"goods_id\":\"64174\",\"position\":\"6.2.1\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3493,
+                        "type": 3,
+                        "title": "五羊婴儿抑菌洗衣液1.2L+宝宝专用洗衣液500ml*4袋",
+                        "title_h5": "五羊婴儿抑菌洗衣液1.2L+宝宝专用洗衣液500ml*4袋",
+                        "url": "http://mm.121dian.com/goods/55975/?trace_data=%7B%22card_id%22%3A3493%2C%22goods_id%22%3A%2255975%22%2C%22position%22%3A%226.2.2%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/f2bfe5e5d427e76ab558e5b2de0881e3.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "752",
+                            "goods_id": "55975",
+                            "is_lock": "",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：67天23小时",
+                            "price": "49.00",
+                            "market_price": "￥168.00",
+                            "rebate": "￥1.23"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3493,
+                                "goods_id": "55975",
+                                "position": "6.2.2"
+                            },
+                            "data_str": "{\"card_id\":3493,\"goods_id\":\"55975\",\"position\":\"6.2.2\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3487,
+                        "type": 3,
+                        "title": "花瑭月色 负离子卫生巾护垫6包装 155mm",
+                        "title_h5": "花瑭月色 负离子卫生巾护垫6包装 155mm",
+                        "url": "http://mm.121dian.com/goods/58908/?trace_data=%7B%22card_id%22%3A3487%2C%22goods_id%22%3A%2258908%22%2C%22position%22%3A%226.2.3%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/ca6f53c9843029b2a1b5e67903aec57e.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "0",
+                            "goods_id": "58908",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天2小时",
+                            "price": "64.80",
+                            "market_price": "￥179.00",
+                            "rebate": "￥4.86"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3487,
+                                "goods_id": "58908",
+                                "position": "6.2.3"
+                            },
+                            "data_str": "{\"card_id\":3487,\"goods_id\":\"58908\",\"position\":\"6.2.3\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3483,
+                        "type": 3,
+                        "title": "（买一送一）臻芝大米蚕丝补水面膜保湿祛黄白皙修护睡眠滋润亮肤男女水光面膜",
+                        "title_h5": "（买一送一）臻芝大米蚕丝补水面膜保湿祛黄白皙修护睡眠滋润亮肤男女水光面膜",
+                        "url": "http://mm.121dian.com/goods/55810/?trace_data=%7B%22card_id%22%3A3483%2C%22goods_id%22%3A%2255810%22%2C%22position%22%3A%226.2.4%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/61a0ddb28fdcba4dfb66494c7b04fd28.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "739",
+                            "goods_id": "55810",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天3小时",
+                            "price": "39.90",
+                            "market_price": "￥99.00",
+                            "rebate": "￥5.99"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3483,
+                                "goods_id": "55810",
+                                "position": "6.2.4"
+                            },
+                            "data_str": "{\"card_id\":3483,\"goods_id\":\"55810\",\"position\":\"6.2.4\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3456,
+                        "type": 3,
+                        "title": "包邮大号10片热帖暖贴宝宝贴发热贴一贴热暖宫贴保暖贴",
+                        "title_h5": "包邮大号10片热帖暖贴宝宝贴发热贴一贴热暖宫贴保暖贴",
+                        "url": "http://mm.121dian.com/goods/58245/?trace_data=%7B%22card_id%22%3A3456%2C%22goods_id%22%3A%2258245%22%2C%22position%22%3A%226.2.5%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/09bcb105d28b54199209e4be8333e4db.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "17",
+                            "goods_id": "58245",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：7天",
+                            "price": "9.90",
+                            "market_price": "￥18.00",
+                            "rebate": "￥0.50"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3456,
+                                "goods_id": "58245",
+                                "position": "6.2.5"
+                            },
+                            "data_str": "{\"card_id\":3456,\"goods_id\":\"58245\",\"position\":\"6.2.5\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3454,
+                        "type": 3,
+                        "title": "aboutme韩国柠檬排毒膏祛痘印祛黄亮白保湿美白面部按摩霜正品女",
+                        "title_h5": "aboutme韩国柠檬排毒膏祛痘印祛黄亮白保湿美白面部按摩霜正品女",
+                        "url": "http://mm.121dian.com/goods/31542/?trace_data=%7B%22card_id%22%3A3454%2C%22goods_id%22%3A%2231542%22%2C%22position%22%3A%226.2.6%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/df02b023e38c0932084c54e8d4c69493.png@!w750",
+                        "corner_ico": "",
+                        "corner": {},
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "734",
+                            "goods_id": "31542",
+                            "is_lock": "",
+                            "lock_started_at": "2016-11-14 11:00:01",
+                            "lock_expired_at": "2016-12-21 11:00:04",
+                            "timing": "剩余：17分钟",
+                            "price": "99.00",
+                            "market_price": "￥180.00",
+                            "rebate": "￥1.49"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3454,
+                                "goods_id": "31542",
+                                "position": "6.2.6"
+                            },
+                            "data_str": "{\"card_id\":3454,\"goods_id\":\"31542\",\"position\":\"6.2.6\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3452,
+                        "type": 3,
+                        "title": "泰国原装进口Mistine8色眼影",
+                        "title_h5": "泰国原装进口Mistine8色眼影",
+                        "url": "http://mm.121dian.com/goods/6134/?trace_data=%7B%22card_id%22%3A3452%2C%22goods_id%22%3A%226134%22%2C%22position%22%3A%226.2.7%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/e3646af5ca59b30b4e56f3a82bff4027.png@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "815",
+                            "goods_id": "6134",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：12分钟",
+                            "price": "85.00",
+                            "market_price": "￥158.00",
+                            "rebate": "￥0.85"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3452,
+                                "goods_id": "6134",
+                                "position": "6.2.7"
+                            },
+                            "data_str": "{\"card_id\":3452,\"goods_id\":\"6134\",\"position\":\"6.2.7\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3450,
+                        "type": 3,
+                        "title": "SUM37呼吸37度 惊喜水分水乳霜三件套 170ml+120ml+20ml",
+                        "title_h5": "SUM37呼吸37度 惊喜水分水乳霜三件套 170ml+120ml+20ml",
+                        "url": "http://mm.121dian.com/goods/58376/?trace_data=%7B%22card_id%22%3A3450%2C%22goods_id%22%3A%2258376%22%2C%22position%22%3A%226.2.8%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/c3c4e6abe92be8161a4fd989b0176f3b.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 750,
+                            "height": 350,
+                            "share_count": "854",
+                            "goods_id": "58376",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：5天",
+                            "price": "728.00",
+                            "market_price": "￥799.00",
+                            "rebate": "￥36.40"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3450,
+                                "goods_id": "58376",
+                                "position": "6.2.8"
+                            },
+                            "data_str": "{\"card_id\":3450,\"goods_id\":\"58376\",\"position\":\"6.2.8\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3449,
+                        "type": 3,
+                        "title": "丝塔芙 温和洁面乳活动超低价包邮 237ml",
+                        "title_h5": "丝塔芙 温和洁面乳活动超低价包邮 237ml",
+                        "url": "http://mm.121dian.com/goods/59342/?trace_data=%7B%22card_id%22%3A3449%2C%22goods_id%22%3A%2259342%22%2C%22position%22%3A%226.2.9%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/6eddd2db14c2067edf2faec8d95fb04c.jpg@!w750",
+                        "corner_ico": "",
+                        "corner": {},
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "13",
+                            "goods_id": "59342",
+                            "is_lock": "",
+                            "lock_started_at": "2016-11-14 10:35:19",
+                            "lock_expired_at": "2016-11-22 10:35:22",
+                            "timing": "剩余：67天23小时",
+                            "price": "69.00",
+                            "market_price": "￥98.00",
+                            "rebate": "￥3.45"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3449,
+                                "goods_id": "59342",
+                                "position": "6.2.9"
+                            },
+                            "data_str": "{\"card_id\":3449,\"goods_id\":\"59342\",\"position\":\"6.2.9\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3446,
+                        "type": 3,
+                        "title": "澳洲DU'IT急救手膜嫩白保湿补水去死皮 滋润舒缓肌肤 5天修复粗糙",
+                        "title_h5": "澳洲DU'IT急救手膜嫩白保湿补水去死皮 滋润舒缓肌肤 5天修复粗糙",
+                        "url": "http://mm.121dian.com/goods/50617/?trace_data=%7B%22card_id%22%3A3446%2C%22goods_id%22%3A%2250617%22%2C%22position%22%3A%226.2.10%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/29280258c29a144ddae18d1ab4fb3eba.jpg@!w750",
+                        "corner_ico": "",
+                        "corner": {},
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "613",
+                            "goods_id": "50617",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：67天23小时",
+                            "price": "65.00",
+                            "market_price": "￥65.00",
+                            "rebate": "￥3.25"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3446,
+                                "goods_id": "50617",
+                                "position": "6.2.10"
+                            },
+                            "data_str": "{\"card_id\":3446,\"goods_id\":\"50617\",\"position\":\"6.2.10\"}"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "ret": 0,
+    "pagination": {
+        "_url": "http://api.121dian.cn/h5/card",
+        "_offset": 0,
+        "_limit": 10,
+        "_count": 11
+    }
+}

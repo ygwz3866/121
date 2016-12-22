@@ -1,0 +1,424 @@
+{
+    "data": {
+        "block": [
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3497,
+                        "type": 3,
+                        "title": "(买一送一)古奇天伦男鞋新款男士商务正装皮鞋时尚皮鞋",
+                        "title_h5": "(买一送一)古奇天伦男鞋新款男士商务正装皮鞋时尚皮鞋",
+                        "url": "http://mm.121dian.com/goods/64021/?trace_data=%7B%22card_id%22%3A3497%2C%22goods_id%22%3A%2264021%22%2C%22position%22%3A%226.2.1%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/04055cd1eed8f6baa3f882090c34d5de.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "24",
+                            "goods_id": "64021",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：67天23小时",
+                            "price": "198.00",
+                            "market_price": "￥512.00",
+                            "rebate": "￥4.95",
+                            "rebate_second": "4.95",
+                            "rebate_desc": "自己购买<font color=\"#ef082e\">赚</font>取返利￥4.95元<br />分享给好友购买<font color=\"#ef082e\">赚</font>取收益4.95元",
+                            "rebate_url": "http://m.121dian.com/mine/share_man"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3497,
+                                "goods_id": "64021",
+                                "position": "6.2.1"
+                            },
+                            "data_str": "{\"card_id\":3497,\"goods_id\":\"64021\",\"position\":\"6.2.1\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3486,
+                        "type": 3,
+                        "title": "伊索正品韩国陶瓷女表 潮流时尚时装表 防水女士手表石英表9905",
+                        "title_h5": "伊索正品韩国陶瓷女表 潮流时尚时装表 防水女士手表石英表9905",
+                        "url": "http://mm.121dian.com/goods/56336/?trace_data=%7B%22card_id%22%3A3486%2C%22goods_id%22%3A%2256336%22%2C%22position%22%3A%226.2.2%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/99141890707195703ce75a6020878264.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "2",
+                            "goods_id": "56336",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天1小时",
+                            "price": "268.00",
+                            "market_price": "￥556.00",
+                            "rebate": "￥1.34"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3486,
+                                "goods_id": "56336",
+                                "position": "6.2.2"
+                            },
+                            "data_str": "{\"card_id\":3486,\"goods_id\":\"56336\",\"position\":\"6.2.2\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3470,
+                        "type": 3,
+                        "title": "买一送一  冬季男鞋2016新款男士商务正装皮鞋英伦尖头皮",
+                        "title_h5": "买一送一  冬季男鞋2016新款男士商务正装皮鞋英伦尖头皮",
+                        "url": "http://mm.121dian.com/goods/64130/?trace_data=%7B%22card_id%22%3A3470%2C%22goods_id%22%3A%2264130%22%2C%22position%22%3A%226.2.3%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/53fddb0314c06939e927244322d80f87.jpg@!w750",
+                        "corner_ico": "",
+                        "corner": {},
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "4",
+                            "goods_id": "64130",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：9天6小时",
+                            "price": "198.00",
+                            "market_price": "￥518.00",
+                            "rebate": "￥4.95"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3470,
+                                "goods_id": "64130",
+                                "position": "6.2.3"
+                            },
+                            "data_str": "{\"card_id\":3470,\"goods_id\":\"64130\",\"position\":\"6.2.3\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3462,
+                        "type": 3,
+                        "title": "兰斯伯顿气质韩版收腰时尚显瘦棉衣女",
+                        "title_h5": "兰斯伯顿气质韩版收腰时尚显瘦棉衣女",
+                        "url": "http://mm.121dian.com/goods/59353/?trace_data=%7B%22card_id%22%3A3462%2C%22goods_id%22%3A%2259353%22%2C%22position%22%3A%226.2.4%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/8c9b5aa10d5befb5a73e557043093e67.jpg@!w750",
+                        "corner_ico": "",
+                        "corner": {},
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "5",
+                            "goods_id": "59353",
+                            "is_lock": "0",
+                            "lock_started_at": "2016-11-14 17:19:13",
+                            "lock_expired_at": "2016-11-30 17:19:16",
+                            "timing": "剩余：68天6小时",
+                            "price": "185.00",
+                            "market_price": "￥258.00",
+                            "rebate": "￥11.10"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3462,
+                                "goods_id": "59353",
+                                "position": "6.2.4"
+                            },
+                            "data_str": "{\"card_id\":3462,\"goods_id\":\"59353\",\"position\":\"6.2.4\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3460,
+                        "type": 3,
+                        "title": "Bejirog/北极绒毛呢大衣羊毛商务中长款男士商务外套加厚保暖937",
+                        "title_h5": "Bejirog/北极绒毛呢大衣羊毛商务中长款男士商务外套加厚保暖937",
+                        "url": "http://mm.121dian.com/goods/57155/?trace_data=%7B%22card_id%22%3A3460%2C%22goods_id%22%3A%2257155%22%2C%22position%22%3A%226.2.5%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/2111d5d1bb0c683a8b3e6a2c4da7daf3.jpg@!w750",
+                        "corner_ico": "",
+                        "corner": {},
+                        "config_count": 12,
+                        "config": {
+                            "width": 750,
+                            "height": 350,
+                            "share_count": "4",
+                            "goods_id": "57155",
+                            "is_lock": "",
+                            "lock_started_at": "2016-11-14 16:53:49",
+                            "lock_expired_at": "2016-11-30 16:53:53",
+                            "timing": "剩余：68天6小时",
+                            "price": "340.00",
+                            "market_price": "￥2199.00",
+                            "rebate": "￥34.00"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3460,
+                                "goods_id": "57155",
+                                "position": "6.2.5"
+                            },
+                            "data_str": "{\"card_id\":3460,\"goods_id\":\"57155\",\"position\":\"6.2.5\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3458,
+                        "type": 3,
+                        "title": "三合一冲锋衣男大码透气保暖棉衣 情侣登山服防水风加厚外套男装 888",
+                        "title_h5": "三合一冲锋衣男大码透气保暖棉衣 情侣登山服防水风加厚外套男装 888",
+                        "url": "http://mm.121dian.com/goods/61093/?trace_data=%7B%22card_id%22%3A3458%2C%22goods_id%22%3A%2261093%22%2C%22position%22%3A%226.2.6%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/6b4cbca0347ab11fa1106ae9842d94c9.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "0",
+                            "goods_id": "61093",
+                            "is_lock": "",
+                            "lock_started_at": "2016-11-14 16:49:40",
+                            "lock_expired_at": "2016-11-30 16:49:48",
+                            "timing": "剩余：68天6小时",
+                            "price": "129.00",
+                            "market_price": "￥399.00",
+                            "rebate": "￥12.90"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3458,
+                                "goods_id": "61093",
+                                "position": "6.2.6"
+                            },
+                            "data_str": "{\"card_id\":3458,\"goods_id\":\"61093\",\"position\":\"6.2.6\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3457,
+                        "type": 3,
+                        "title": "AFS JEEP战地吉普羽绒服男 冬装宽松男士羽绒服时尚毛领加厚外套",
+                        "title_h5": "AFS JEEP战地吉普羽绒服男 冬装宽松男士羽绒服时尚毛领加厚外套",
+                        "url": "http://mm.121dian.com/goods/58122/?trace_data=%7B%22card_id%22%3A3457%2C%22goods_id%22%3A%2258122%22%2C%22position%22%3A%226.2.7%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/c6f4060269e9ffe967e9f9871da0255c.jpg@!w750",
+                        "corner_ico": "",
+                        "corner": {},
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "4",
+                            "goods_id": "58122",
+                            "is_lock": "",
+                            "lock_started_at": "2016-11-15 16:41:37",
+                            "lock_expired_at": "2016-11-30 16:41:41",
+                            "timing": "剩余：68天6小时",
+                            "price": "208.00",
+                            "market_price": "￥388.00",
+                            "rebate": "￥10.40"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3457,
+                                "goods_id": "58122",
+                                "position": "6.2.7"
+                            },
+                            "data_str": "{\"card_id\":3457,\"goods_id\":\"58122\",\"position\":\"6.2.7\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3409,
+                        "type": 3,
+                        "title": "QIGIRL 渐变色修身弹力牛仔裤7600",
+                        "title_h5": "QIGIRL 渐变色修身弹力牛仔裤7600",
+                        "url": "http://mm.121dian.com/goods/38572/?trace_data=%7B%22card_id%22%3A3409%2C%22goods_id%22%3A%2238572%22%2C%22position%22%3A%226.2.8%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/53b8413dcc029d6c2cb0c7c41ec21977.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "826",
+                            "goods_id": "38572",
+                            "is_lock": "",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：317天22小时",
+                            "price": "138.00",
+                            "market_price": "￥558.00",
+                            "rebate": "￥6.90"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3409,
+                                "goods_id": "38572",
+                                "position": "6.2.8"
+                            },
+                            "data_str": "{\"card_id\":3409,\"goods_id\":\"38572\",\"position\":\"6.2.8\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3408,
+                        "type": 3,
+                        "title": "老头夫皇 7双装时尚纯棉运动袜休闲船袜短袜",
+                        "title_h5": "老头夫皇 7双装时尚纯棉运动袜休闲船袜短袜",
+                        "url": "http://mm.121dian.com/goods/40535/?trace_data=%7B%22card_id%22%3A3408%2C%22goods_id%22%3A%2240535%22%2C%22position%22%3A%226.2.9%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/b8bc28d10f9021840709dd5b48890113.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "908",
+                            "goods_id": "40535",
+                            "is_lock": "",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：67天22小时",
+                            "price": "49.00",
+                            "market_price": "￥198.00",
+                            "rebate": "￥3.68"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3408,
+                                "goods_id": "40535",
+                                "position": "6.2.9"
+                            },
+                            "data_str": "{\"card_id\":3408,\"goods_id\":\"40535\",\"position\":\"6.2.9\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3407,
+                        "type": 3,
+                        "title": "阿基米德长袖印花衬衫",
+                        "title_h5": "阿基米德长袖印花衬衫",
+                        "url": "http://mm.121dian.com/goods/58218/?trace_data=%7B%22card_id%22%3A3407%2C%22goods_id%22%3A%2258218%22%2C%22position%22%3A%226.2.10%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/26455669ce588146894be34a9ae602cf.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "680",
+                            "goods_id": "58218",
+                            "is_lock": "",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：67天22小时",
+                            "price": "120.00",
+                            "market_price": "￥395.00",
+                            "rebate": "￥12.00"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3407,
+                                "goods_id": "58218",
+                                "position": "6.2.10"
+                            },
+                            "data_str": "{\"card_id\":3407,\"goods_id\":\"58218\",\"position\":\"6.2.10\"}"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "ret": 0,
+    "pagination": {
+        "_url": "http://api.121dian.cn/h5/card",
+        "_offset": 0,
+        "_limit": 10,
+        "_count": 15
+    }
+}

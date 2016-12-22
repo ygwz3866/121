@@ -1,0 +1,213 @@
+{
+    "referer": "",
+    "user": {
+        "wap_token": "iTZ7DVcEHChdQ4473enK",
+        "cart_count": 0,
+        "auth_type": 0,
+        "user_id": 3964610,
+        "public_id": "121ANONYM-2e4d86babbd8a4c1ff2281c77aa10cd1",
+        "from_uid": "0",
+        "from_utag": "",
+        "unique_token": null,
+        "user_open_date": "2016-12-22 10:34:18"
+    },
+    "config": {
+        "api_url": "http://api.121dian.cn/",
+        "dot_url": "http://dot.121dian.com",
+        "ico": {
+            "zhuan": "http://upyun.front.121dian.com/assets/img/mine/zhuan.png",
+            "fan": "http://upyun.front.121dian.com/assets/img/mine/fan.png"
+        }
+    },
+    "params": {
+        "renderData": {
+            "ret": 0,
+            "data": [
+                {
+                    "name": "吃吃喝喝",
+                    "intro": "",
+                    "url": "",
+                    "child": [
+                        {
+                            "id": 1320,
+                            "name": "食品饮料",
+                            "icon": "http://image.121dian.com/site/0/3bf0ea35c5f90a4e76e6b0ce35bf894d.jpg@!w33",
+                            "intro": "舌尖上起舞的美味"
+                        },
+                        {
+                            "id": 12218,
+                            "name": "生鲜",
+                            "icon": "http://image.121dian.com/site/0/c5ff4abe97a68b57a8b8001d6feedcd3.jpg@!w33",
+                            "intro": "现采速达,吃出新鲜"
+                        },
+                        {
+                            "id": 12259,
+                            "name": "酒类",
+                            "icon": "http://image.121dian.com/site/0/0ee8869e41724264946fddcce102d3b3.jpg@!w33",
+                            "intro": "品地道酒水，回味谈笑中"
+                        }
+                    ]
+                },
+                {
+                    "name": "生活必备",
+                    "intro": "",
+                    "child": [
+                        {
+                            "id": 1316,
+                            "name": "个护化妆",
+                            "icon": "http://image.121dian.com/site/0/135723cb55fadeba99cb49001c5a0159.png@!w33",
+                            "intro": "你不护理,美不爱你"
+                        },
+                        {
+                            "id": 1319,
+                            "name": "母婴",
+                            "icon": "http://image.121dian.com/site/0/465ff08a2a3adb4b2248c8991839f7e3.jpg@!w33",
+                            "intro": "纯绿色品质,营养健康"
+                        },
+                        {
+                            "id": 6728,
+                            "name": "汽车用品",
+                            "icon": "http://image.121dian.com/site/0/e91240771ab718d619ed30f8bafd5360.jpg@!w33",
+                            "intro": "养车护车，正品底价"
+                        },
+                        {
+                            "id": 1620,
+                            "name": "家居家装",
+                            "icon": "http://image.121dian.com/site/0/e71f7d5b103c047522d158c1ccf20c53.jpg@!w33",
+                            "intro": "想每天赖家久一点"
+                        },
+                        {
+                            "id": 6196,
+                            "name": "厨具",
+                            "icon": "http://image.121dian.com/site/0/74de6b001b4b52190d9d1a28895178d8.jpg@!w33",
+                            "intro": "烹饪美味"
+                        },
+                        {
+                            "id": 9847,
+                            "name": "家具",
+                            "icon": "http://image.121dian.com/site/0/b65bc6b6c9f97e884e4269e94c98def1.jpg@!w33",
+                            "intro": "焕新家，有房一族"
+                        },
+                        {
+                            "id": 9855,
+                            "name": "家装建材",
+                            "icon": "http://image.121dian.com/site/0/2592a6f8e2529b06dc1873d8cdb08e61.jpg@!w33",
+                            "intro": "一站装家，品质靠得住"
+                        },
+                        {
+                            "id": 5025,
+                            "name": "钟表",
+                            "icon": "http://image.121dian.com/site/0/87605f75d95764323ea3e309884142e5.jpg@!w33",
+                            "intro": "每一分钟由你控制"
+                        }
+                    ]
+                },
+                {
+                    "name": "穿衣搭配",
+                    "intro": "",
+                    "url": "",
+                    "child": [
+                        {
+                            "id": 1315,
+                            "name": "服饰内衣",
+                            "icon": "http://image.121dian.com/site/0/326f16eeacb7b8467646d4a93b152d54.jpg@!w33",
+                            "intro": "你就是下一个女神"
+                        },
+                        {
+                            "id": 1318,
+                            "name": "运动户外",
+                            "icon": "http://image.121dian.com/site/0/5cb203ecccf3187997a211a9c6581eec.png@!w33",
+                            "intro": "生命在于运动"
+                        },
+                        {
+                            "id": 1672,
+                            "name": "礼品箱包",
+                            "icon": "http://image.121dian.com/site/0/c5453a6a82a79a2998774d67c691c7e3.jpg@!w33",
+                            "intro": "拎包就走，说走就走"
+                        },
+                        {
+                            "id": 6144,
+                            "name": "珠宝首饰",
+                            "icon": "http://image.121dian.com/site/0/f3f69dfca8fea1263940a9b67c56f5ff.jpg@!w33",
+                            "intro": "品味就是我的资本"
+                        },
+                        {
+                            "id": 11729,
+                            "name": "鞋靴",
+                            "icon": "http://image.121dian.com/site/0/df0f8e1ac3f0275861ee5979d6ea2a5d.jpg@!w33",
+                            "intro": "每一步都是享受"
+                        }
+                    ]
+                },
+                {
+                    "name": "营养保健",
+                    "intro": "",
+                    "child": [
+                        {
+                            "id": 9192,
+                            "name": "营养保健",
+                            "icon": "http://image.121dian.com/site/0/b2d05014a6686626df99b53362e53f2e.jpg@!w33",
+                            "intro": "健康才是硬道理"
+                        },
+                        {
+                            "id": 6324,
+                            "name": "性福生活",
+                            "icon": "http://image.121dian.com/site/0/466bfd3293c93ffe997da03bb4eb5547.jpg@!w33",
+                            "intro": "神秘而富有激情"
+                        }
+                    ]
+                },
+                {
+                    "name": "数码电器",
+                    "intro": "",
+                    "child": [
+                        {
+                            "id": 652,
+                            "name": "数码",
+                            "icon": "http://image.121dian.com/site/0/360cddbc175cfcd0aa7d08d7e82f6389.jpg@!w33",
+                            "intro": "数码大玩咖"
+                        },
+                        {
+                            "id": 670,
+                            "name": "电脑办公",
+                            "icon": "http://image.121dian.com/site/0/ea7d7899c56bac56c5bab0bfc2438f0e.jpg@!w33",
+                            "intro": "配置升级，办公得力"
+                        },
+                        {
+                            "id": 737,
+                            "name": "家用电器",
+                            "icon": "http://image.121dian.com/site/0/dcf7605fa61fb0467e0280ad06ee8e8d.png@!w33",
+                            "intro": "小家电，大智能"
+                        },
+                        {
+                            "id": 9987,
+                            "name": "手机",
+                            "icon": "http://image.121dian.com/site/0/8d1f95544e452397049acf86fc077ea1.jpg@!w33",
+                            "intro": "品牌手机，春季特惠"
+                        }
+                    ]
+                },
+                {
+                    "name": "娱乐宠物",
+                    "intro": "",
+                    "child": [
+                        {
+                            "id": 6233,
+                            "name": "玩具乐器",
+                            "icon": "http://image.121dian.com/site/0/fdc6d5123a0dd550456d04744da258ff.jpg@!w33",
+                            "intro": "送给孩子的健康礼物"
+                        },
+                        {
+                            "id": 4938,
+                            "name": "生活旅游",
+                            "icon": "http://image.121dian.com/site/0/8985c8be18a5d96f609ea295d16bc8d5.jpg@!w33",
+                            "intro": "特惠旅游，轻松搞定"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "service": [],
+    "wxpay_config": null
+}

@@ -1,0 +1,75 @@
+{
+    "referer": "",
+    "user": {
+        "wap_token": "RM6ufo52odQFxAfI2U1m",
+        "cart_count": 0,
+        "auth_type": 0,
+        "user_id": 3964618,
+        "public_id": "121ANONYM-cf0d0ec89a57b8fb9347ecf6eee561ab",
+        "from_uid": "0",
+        "from_utag": "",
+        "unique_token": null,
+        "user_open_date": "2016-12-22 10:39:59"
+    },
+    "config": {
+        "api_url": "http://api.121dian.cn/",
+        "dot_url": "http://dot.121dian.com",
+        "ico": {
+            "zhuan": "http://upyun.front.121dian.com/assets/img/mine/zhuan.png",
+            "fan": "http://upyun.front.121dian.com/assets/img/mine/fan.png"
+        }
+    },
+    "params": {
+        "renderData": {
+            "ret": 0,
+            "data": {
+                "user": [],
+                "order": [
+                    {
+                        "type": "order-info",
+                        "item_num": 5,
+                        "items": [
+                            {
+                                "icon": "http://qiniu.front.121dian.com/assets/img/mine/dfk.png",
+                                "name": "待付款",
+                                "name_color": "#333333",
+                                "url": "http://m.121dian.com/order/?status=unpay&trace_data=%7B%22position%22%3A%22212.1.2%22%7D",
+                                "num": "0"
+                            },
+                            {
+                                "icon": "http://qiniu.front.121dian.com/assets/img/mine/dsh.png",
+                                "name": "待收货",
+                                "name_color": "#333333",
+                                "url": "http://m.121dian.com/order/?status=undelivery&trace_data=%7B%22position%22%3A%22212.1.3%22%7D",
+                                "num": "0"
+                            },
+                            {
+                                "icon": "http://qiniu.front.121dian.com/assets/img/mine/dpj.png",
+                                "name": "待评价",
+                                "name_color": "#333333",
+                                "url": "http://m.121dian.com/order/?status=uncomment&trace_data=%7B%22position%22%3A%22212.1.4%22%7D",
+                                "num": "0"
+                            },
+                            {
+                                "icon": "http://qiniu.front.121dian.com/assets/img/mine/sh.png",
+                                "name": "退货/售后",
+                                "name_color": "#333333",
+                                "url": "http://m.121dian.com/order/?status=refund_done&trace_data=%7B%22position%22%3A%22212.1.5%22%7D",
+                                "num": "0"
+                            },
+                            {
+                                "icon": "http://qiniu.front.121dian.com/assets/img/mine/wfx.png",
+                                "name": "未分享",
+                                "name_color": "#333333",
+                                "url": "http://m.121dian.com/order/?status=unshare",
+                                "num": "0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "service": [],
+    "wxpay_config": null
+}

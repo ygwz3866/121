@@ -1,0 +1,425 @@
+
+{
+    "data": {
+        "block": [
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3502,
+                        "type": 3,
+                        "title": "舒绿园 冻干柠檬片蜂蜜泡茶冻干花茶花草水果茶非烘柠檬干片包邮",
+                        "title_h5": "舒绿园 冻干柠檬片蜂蜜泡茶冻干花茶花草水果茶非烘柠檬干片包邮",
+                        "url": "http://m.121dian.com/goods/60938/?trace_data=%7B%22card_id%22%3A3502%2C%22goods_id%22%3A%2260938%22%2C%22position%22%3A%226.2.1%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/09c64cd3065be68915c06ab1534da851.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 620,
+                            "share_count": "18",
+                            "goods_id": "60938",
+                            "is_lock": "",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天",
+                            "price": "9.90",
+                            "market_price": "￥66.00",
+                            "rebate": "￥0.99",
+                            "rebate_second": "0.99",
+                            "rebate_desc": "自己购买<font color=\"#ef082e\">赚</font>取返利￥0.99元<br />分享给好友购买<font color=\"#ef082e\">赚</font>取收益0.99元",
+                            "rebate_url": "http://m.121dian.com/mine/share_man"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3502,
+                                "goods_id": "60938",
+                                "position": "6.2.1"
+                            },
+                            "data_str": "{\"card_id\":3502,\"goods_id\":\"60938\",\"position\":\"6.2.1\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3498,
+                        "type": 3,
+                        "title": "心溢 红枣阿胶枸杞粉五谷杂粮营养冲饮试天然食用代餐粉520g",
+                        "title_h5": "心溢 红枣阿胶枸杞粉五谷杂粮营养冲饮试天然食用代餐粉520g",
+                        "url": "http://m.121dian.com/goods/61075/?trace_data=%7B%22card_id%22%3A3498%2C%22goods_id%22%3A%2261075%22%2C%22position%22%3A%226.2.2%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/b67a390d59e34a9e7182e4c627eee450.png@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/a36b2559516f4dfafb9d9de23379dbc1.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "新 品"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "5",
+                            "goods_id": "61075",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天3小时",
+                            "price": "79.90",
+                            "market_price": "￥168.00",
+                            "rebate": "￥7.99"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3498,
+                                "goods_id": "61075",
+                                "position": "6.2.2"
+                            },
+                            "data_str": "{\"card_id\":3498,\"goods_id\":\"61075\",\"position\":\"6.2.2\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3479,
+                        "type": 3,
+                        "title": "西凤尊贵窖·贵禄52° 买就送路虎款山地自行车",
+                        "title_h5": "西凤尊贵窖·贵禄52° 买就送路虎款山地自行车",
+                        "url": "http://m.121dian.com/goods/63953/?trace_data=%7B%22card_id%22%3A3479%2C%22goods_id%22%3A%2263953%22%2C%22position%22%3A%226.2.3%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/d54e26cd5a5e8e620eb450df73cb1b52.png@!w750",
+                        "corner_ico": "",
+                        "corner": {},
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "29",
+                            "goods_id": "63953",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天1小时",
+                            "price": "768.00",
+                            "market_price": "￥2868.00",
+                            "rebate": "￥19.20"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3479,
+                                "goods_id": "63953",
+                                "position": "6.2.3"
+                            },
+                            "data_str": "{\"card_id\":3479,\"goods_id\":\"63953\",\"position\":\"6.2.3\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3472,
+                        "type": 3,
+                        "title": "顾公时尚潮蜜农家自产天然蜂蜜便携装275g野玫瑰蜜小包装野生蜂蜜",
+                        "title_h5": "顾公时尚潮蜜农家自产天然蜂蜜便携装275g野玫瑰蜜小包装野生蜂蜜",
+                        "url": "http://m.121dian.com/goods/64042/?trace_data=%7B%22card_id%22%3A3472%2C%22goods_id%22%3A%2264042%22%2C%22position%22%3A%226.2.4%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/7df39984431cac384fcca43f0025817f.jpg@!w750",
+                        "corner_ico": "",
+                        "corner": {},
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "4",
+                            "goods_id": "64042",
+                            "is_lock": "",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天4小时",
+                            "price": "39.00",
+                            "market_price": "￥118.00",
+                            "rebate": "￥1.95"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3472,
+                                "goods_id": "64042",
+                                "position": "6.2.4"
+                            },
+                            "data_str": "{\"card_id\":3472,\"goods_id\":\"64042\",\"position\":\"6.2.4\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3464,
+                        "type": 3,
+                        "title": "霍山黄芽茶叶牛皮纸200g/袋",
+                        "title_h5": "霍山黄芽茶叶牛皮纸200g/袋",
+                        "url": "http://m.121dian.com/goods/58658/?trace_data=%7B%22card_id%22%3A3464%2C%22goods_id%22%3A%2258658%22%2C%22position%22%3A%226.2.5%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/bb00e6c903a62d53c4566ea11e588980.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "10",
+                            "goods_id": "58658",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天",
+                            "price": "105.00",
+                            "market_price": "￥135.00",
+                            "rebate": "￥7.88"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3464,
+                                "goods_id": "58658",
+                                "position": "6.2.5"
+                            },
+                            "data_str": "{\"card_id\":3464,\"goods_id\":\"58658\",\"position\":\"6.2.5\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 2907,
+                        "type": 3,
+                        "title": "【手剥炒货  】农博汇奶油碧根果780g",
+                        "title_h5": "【手剥炒货  】农博汇奶油碧根果780g",
+                        "url": "http://m.121dian.com/goods/12421/?trace_data=%7B%22card_id%22%3A2907%2C%22goods_id%22%3A%2212421%22%2C%22position%22%3A%226.2.6%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/0f7bc72f740362f75f896773e937547e.jpg@!w750",
+                        "corner_ico": "",
+                        "corner": {},
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "561",
+                            "goods_id": "12421",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：68天5小时",
+                            "price": "65.60",
+                            "market_price": "￥156.00",
+                            "rebate": "￥3.28"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 2907,
+                                "goods_id": "12421",
+                                "position": "6.2.6"
+                            },
+                            "data_str": "{\"card_id\":2907,\"goods_id\":\"12421\",\"position\":\"6.2.6\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 3357,
+                        "type": 3,
+                        "title": "【买大米送杂粮】2016年正宗五常大米黑龙江稻花香米十斤装",
+                        "title_h5": "【买大米送杂粮】2016年正宗五常大米黑龙江稻花香米十斤装",
+                        "url": "http://m.121dian.com/goods/43192/?trace_data=%7B%22card_id%22%3A3357%2C%22goods_id%22%3A%2243192%22%2C%22position%22%3A%226.2.7%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/8ef8503cb7db10342a8df3aca8295e20.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "575",
+                            "goods_id": "43192",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：67天22小时",
+                            "price": "89.80",
+                            "market_price": "￥99.90",
+                            "rebate": "￥4.49"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 3357,
+                                "goods_id": "43192",
+                                "position": "6.2.7"
+                            },
+                            "data_str": "{\"card_id\":3357,\"goods_id\":\"43192\",\"position\":\"6.2.7\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 1779,
+                        "type": 3,
+                        "title": "【湿不再来】艺福堂薏米红豆粉600g",
+                        "title_h5": "【湿不再来】艺福堂薏米红豆粉600g",
+                        "url": "http://m.121dian.com/goods/10792/?trace_data=%7B%22card_id%22%3A1779%2C%22goods_id%22%3A%2210792%22%2C%22position%22%3A%226.2.8%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/a073f7ecc320ad30fd5b0a2f1ed8d1cc.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/71cbdb92897913b0e704cdaa418665fe.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "热 卖"
+                        },
+                        "config_count": 9,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "1457",
+                            "goods_id": "10792",
+                            "timing": "剩余：7天22小时",
+                            "price": "32.80",
+                            "market_price": "￥86.00",
+                            "rebate": "￥1.64"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 1779,
+                                "goods_id": "10792",
+                                "position": "6.2.8"
+                            },
+                            "data_str": "{\"card_id\":1779,\"goods_id\":\"10792\",\"position\":\"6.2.8\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 958,
+                        "type": 3,
+                        "title": "【韩国进口】ZEK芝士鳕鱼肠105g*3袋装 儿童营养鳕鱼肠",
+                        "title_h5": "【韩国进口】ZEK芝士鳕鱼肠105g*3袋装 儿童营养鳕鱼肠",
+                        "url": "http://m.121dian.com/goods/45877/?trace_data=%7B%22card_id%22%3A958%2C%22goods_id%22%3A%2245877%22%2C%22position%22%3A%226.2.9%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/99c2a2adbc89ed9f9f9a85d342b80a84.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/a36b2559516f4dfafb9d9de23379dbc1.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "新 品"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "1386",
+                            "goods_id": "45877",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：5天1小时",
+                            "price": "45.00",
+                            "market_price": "￥49.00",
+                            "rebate": "￥2.25"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 958,
+                                "goods_id": "45877",
+                                "position": "6.2.9"
+                            },
+                            "data_str": "{\"card_id\":958,\"goods_id\":\"45877\",\"position\":\"6.2.9\"}"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "card-flat",
+                "scale": 1,
+                "items": [
+                    {
+                        "id": 2804,
+                        "type": 3,
+                        "title": "【法国原装进口】Candia肯迪雅全脂纯牛奶200ML*12盒*2箱",
+                        "title_h5": "【法国原装进口】Candia肯迪雅全脂纯牛奶200ML*12盒*2箱",
+                        "url": "http://m.121dian.com/goods/50091/?trace_data=%7B%22card_id%22%3A2804%2C%22goods_id%22%3A%2250091%22%2C%22position%22%3A%226.2.10%22%7D",
+                        "content": "",
+                        "image": "http://image.121dian.com/site/121/5192ee2605805c47a0c48a9c21d0d93e.jpg@!w750",
+                        "corner_ico": "http://image.121dian.com/site/121/a36b2559516f4dfafb9d9de23379dbc1.png",
+                        "corner": {
+                            "background": "http://image.121dian.com/site//c93722ad1c7ce7128393f6bc84a9499f.png_100",
+                            "text": "新 品"
+                        },
+                        "config_count": 12,
+                        "config": {
+                            "width": 1160,
+                            "height": 662,
+                            "share_count": "1138",
+                            "goods_id": "50091",
+                            "is_lock": "0",
+                            "lock_started_at": "",
+                            "lock_expired_at": "",
+                            "timing": "剩余：5天22小时",
+                            "price": "180.00",
+                            "market_price": "￥288.00",
+                            "rebate": "￥18.00"
+                        },
+                        "trace": {
+                            "data": {
+                                "card_id": 2804,
+                                "goods_id": "50091",
+                                "position": "6.2.10"
+                            },
+                            "data_str": "{\"card_id\":2804,\"goods_id\":\"50091\",\"position\":\"6.2.10\"}"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "ret": 0,
+    "pagination": {
+        "_url": "http://api.121dian.cn/h5/card",
+        "_offset": 0,
+        "_limit": 10,
+        "_count": 11
+    }
+}
